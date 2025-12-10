@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ### Out-of-Distribution (OoD)
 
-We utilize the standard OoD benchmark datasets defined in **MOS** and **OpenOOD**.
+We utilize the standard OoD benchmark datasets defined in **MOS**.
 
   * **Datasets:** iNaturalist, SUN, Places, Textures
 
